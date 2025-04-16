@@ -40,7 +40,8 @@ An elegant, full-featured online store built using Odoo — designed to satisfy 
 ## 📷 Live Website
 
 [flavory.odoo.com](https://flavory.odoo.com/)
-
+[Figma](https://www.figma.com/design/bOMD2UMC0JDXu1XCCj4tBL/Flavory?node-id=6-1141&t=q3leI5cdDHKVUS4M-0)
+[Trello](https://trello.com/b/QbmAdVKU/odoo)
 ---
 
 > A delicious project... not just because of the donuts! 😋
