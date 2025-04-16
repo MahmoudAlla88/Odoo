@@ -1,2 +1,2 @@
 # Odoo
-[website]{https://flavory.odoo.com/}
+[website](https://flavory.odoo.com/)
